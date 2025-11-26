@@ -1,20 +1,62 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# A Suma Sacerdotisa · Site de Tarot Terapêutico
 
-# Run and deploy your AI Studio app
+Website institucional desenvolvido para apresentar o trabalho de tarot terapêutico da *A Suma Sacerdotisa*, com foco em clareza, acolhimento e uma experiência visual suave.
 
-This contains everything you need to run your app locally.
+Este projeto utiliza React + Vite e foi construído com uma interface simples, elegante e responsiva, priorizando boa leitura, acessibilidade e uma navegação fluida.
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+---
 
-## Run Locally
+## 🔗 Acesse o site
 
-**Prerequisites:**  Node.js
+👉 **https://a-suma-sacerdotisa.vercel.app**
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🧩 Estrutura do Projeto
+
+- **React com Vite**
+- **TypeScript**
+- **Componentização simples e escalável**
+- **Arquitetura limpa**
+- **Design minimalista com paleta neutra**
+- **Responsividade para mobile e desktop**
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **React**
+- **Vite**
+- **TypeScript**
+- **HTML5**
+- **CSS3 (inline e Tailwind via CDN)**
+
+---
+
+## 🎯 Objetivo do Projeto
+
+Criar uma experiência acolhedora e confiável para pessoas que buscam:
+
+- Autoconhecimento  
+- Tarot terapêutico  
+- Orientação emocional  
+- Leitura simbólica de arquétipos  
+
+O foco principal foi entregar um site limpo, rápido, funcional e visualmente consistente com a proposta do serviço.
+
+---
+
+## 🧾 Licença
+
+**Direitos autorais © 2025 – A Suma Sacerdotisa. Todos os direitos reservados.**
+
+Todo o conteúdo deste site, incluindo textos, imagens, identidade visual, descrições de serviços, layout e demais elementos gráficos é de propriedade exclusiva de **A Suma Sacerdotisa**.  
+A reprodução, distribuição, modificação ou uso de qualquer parte deste material sem autorização prévia e por escrito é **estritamente proibida**.
+
+O **código-fonte** deste site foi desenvolvido por **Thiago Pereira**, autorizado **exclusivamente para uso no projeto “A Suma Sacerdotisa”**.  
+Qualquer utilização do código fora desse contexto, sem consentimento, não é permitida.
+
+---
+
+## 👨‍💻 Autor
+💻 Desenvolvido por Thiago Pereira
