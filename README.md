@@ -48,9 +48,10 @@ O foco principal foi entregar um site limpo, rápido, funcional e visualmente co
 
 ## 🧾 Licença
 
-**Direitos autorais © 2025 – A Suma Sacerdotisa. Todos os direitos reservados.**
+**Direitos autorais © 2025 - A Suma Sacerdotisa. Todos os direitos reservados.**
 
 Todo o conteúdo deste site, incluindo textos, imagens, identidade visual, descrições de serviços, layout e demais elementos gráficos é de propriedade exclusiva de **A Suma Sacerdotisa**.  
+
 A reprodução, distribuição, modificação ou uso de qualquer parte deste material sem autorização prévia e por escrito é **estritamente proibida**.
 
 O **código-fonte** deste site foi desenvolvido por **Thiago Pereira**, autorizado **exclusivamente para uso no projeto “A Suma Sacerdotisa”**.  
