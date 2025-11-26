@@ -55,6 +55,7 @@ Todo o conteúdo deste site, incluindo textos, imagens, identidade visual, descr
 A reprodução, distribuição, modificação ou uso de qualquer parte deste material sem autorização prévia e por escrito é **estritamente proibida**.
 
 O **código-fonte** deste site foi desenvolvido por **Thiago Pereira**, autorizado **exclusivamente para uso no projeto “A Suma Sacerdotisa”**.  
+
 Qualquer utilização do código fora desse contexto, sem consentimento, não é permitida.
 
 ---
